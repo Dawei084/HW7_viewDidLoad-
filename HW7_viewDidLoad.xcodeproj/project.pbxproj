@@ -13,6 +13,7 @@
 		D38227AE299E6CB000A5F98E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D38227AC299E6CB000A5F98E /* Main.storyboard */; };
 		D38227B0299E6CB200A5F98E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D38227AF299E6CB200A5F98E /* Assets.xcassets */; };
 		D38227B3299E6CB200A5F98E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D38227B1299E6CB200A5F98E /* LaunchScreen.storyboard */; };
+		D3BF98F629A273F00018F3F5 /* Lisa Money ringtone  Download Link.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D3BF98F529A273F00018F3F5 /* Lisa Money ringtone  Download Link.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D38227AF299E6CB200A5F98E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D38227B2299E6CB200A5F98E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D38227B4299E6CB200A5F98E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D3BF98F529A273F00018F3F5 /* Lisa Money ringtone  Download Link.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Lisa Money ringtone  Download Link.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				D38227AF299E6CB200A5F98E /* Assets.xcassets */,
 				D38227B1299E6CB200A5F98E /* LaunchScreen.storyboard */,
 				D38227B4299E6CB200A5F98E /* Info.plist */,
+				D3BF98F529A273F00018F3F5 /* Lisa Money ringtone  Download Link.mp3 */,
 			);
 			path = HW7_viewDidLoad;
 			sourceTree = "<group>";
@@ -128,6 +131,7 @@
 				D38227B3299E6CB200A5F98E /* LaunchScreen.storyboard in Resources */,
 				D38227B0299E6CB200A5F98E /* Assets.xcassets in Resources */,
 				D38227AE299E6CB000A5F98E /* Main.storyboard in Resources */,
+				D3BF98F629A273F00018F3F5 /* Lisa Money ringtone  Download Link.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
